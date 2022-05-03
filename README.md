@@ -1,15 +1,3 @@
-![MapmyIndia APIs](https://www.mapmyindia.com/api/img/mapmyindia-api.png)
-# MapmyIndia Raster Map Android SDK
-
-## Getting Started
-
-MapmyIndia.s Android Map Raster SDK helps to embed MapmyIndia maps within your Android application. Through customized raster tiles, you can add different map layers to your application and add bunch of controls and gestures to enhance map usability thus creating potent map based solutions for your customers.
-
-## API Usage
-
-Your MapmyIndia Maps SDK usage needs a set of license keys (get them [here](http://www.mapmyindia.com/api/signup)) and is governed by the API [terms and conditions](http://www.mapmyindia.com/api/terms-&-conditions). As part of the terms and conditions, **you cannot remove or hide the MapmyIndia logo and copyright information** in your project.  
-  
-The allowed SDK hits are described on the [plans](http://www.mapmyindia.com/api/pricing) page. Note that your usage is shared between platforms, so the API hits you make from a web application, Android app or an iOS app all add up to your allowed daily limit.
 
 ## Setup your project
 
