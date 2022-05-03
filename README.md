@@ -58,25 +58,4 @@ MapmyIndiaAccountManager.getInstance().atlasClientId = getAtlasClientId()
 MapmyIndiaAccountManager.getInstance().atlasClientSecret = getAtlasClientSecret()
 ```
 
-You cannot use the MapmyIndia Map Mobile SDK without these function calls. You will find your keys in your [API Dashboard](http://www.mapmyindia.com/api/dashboard).
 
-
-For any queries and support, please contact: 
-
-![Email](https://www.google.com/a/cpanel/mapmyindia.co.in/images/logo.gif?service=google_gsuite) 
-Email us at [apisupport@mapmyindia.com](mailto:apisupport@mapmyindia.com)
-
-![](https://www.mapmyindia.com/api/img/icons/stack-overflow.png)
-[Stack Overflow](https://stackoverflow.com/questions/tagged/mapmyindia-api)
-Ask a question under the mapmyindia-api
-
-![](https://www.mapmyindia.com/api/img/icons/support.png)
-[Support](https://www.mapmyindia.com/api/index.php#f_cont)
-Need support? contact us!
-
-![](https://www.mapmyindia.com/api/img/icons/blog.png)
-[Blog](http://www.mapmyindia.com/blog/)
-Read about the latest updates & customer stories
-
-
-> © Copyright 2020. CE Info Systems Pvt. Ltd. All Rights Reserved. | [Terms & Conditions](http://www.mapmyindia.com/api/terms-&-conditions).
